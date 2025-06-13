@@ -37,7 +37,7 @@
 
 ## 💌 Actualmente estoy buscando **oportunidades remotas**.
 
-📄 [Descarga mi CV aquí](https://drive.google.com/file/d/1-lRf-QMuqrXj3DZDdTwrcuqyEFWO02vE/view?usp=drive_link) para más detalles sobre mi experiencia y formación.
+📄 [Ve mi CV aquí](https://drive.google.com/file/d/1-lRf-QMuqrXj3DZDdTwrcuqyEFWO02vE/view?usp=drive_link) para más detalles sobre mi experiencia y formación.
 
 ✉ También puedes contactarme directamente a través de mi [perfil de LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363).
 
