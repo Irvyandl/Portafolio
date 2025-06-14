@@ -12,7 +12,7 @@
 - Permitió la rápida comprensión del estado del negocio.
 
 📈 **Reporte de Power BI:**  
-[🔗 Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/blob/main/ReporteDeVentas.pbix?raw=true)
+[🔗 Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/raw/refs/heads/main/ReporteDeVentas.pbix)
 
 ---
 
