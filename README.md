@@ -1,6 +1,6 @@
 # 📊 Portafolio de Análisis de Datos De Irvin
 
-¡Bienvenido/a! Soy **Irvin**, un bilingue y apasionado aspirante a Analista de Datos con experiencia práctica en **limpieza de datos, modelado y diseño de dashboards** utilizando Power BI y Excel. Me especializo en transformar datos crudos en **información accionable** para facilitar la toma de decisiones y el seguimiento a los equipos designados.
+¡Bienvenido/a! Soy **Irvin**, un bilingue y apasionado aspirante a Analista de Datos con experiencia práctica en **limpieza de datos, modelado y diseño de dashboards** utilizando Power BI y Excel. Me especializo en transformar datos crudos en **información visible y accionable** para facilitar la toma de decisiones y el seguimiento de estados financieros a los equipos designados.
 
 ---
 
@@ -9,7 +9,7 @@
 ### 🔹 Dashboard de Ventas
 - Diseñé un dashboard interactivo en **Power BI** utilizando **más de 7,000 filas** de datos de ventas crudos.
 - Incluí visualizaciones para el **seguimiento del rendimiento**, con segmentadores para mostrar datos por **año y región**.
-- Permitió la rápida comprensión del estado del negocio.
+- Permití una rápida comprensión y visualización del estado del negocio.
 
 📈 **Visualización del Reporte de Power BI:**  
 
@@ -26,7 +26,7 @@
 - ✅ Limpieza y transformación de datos no estructurados 
 - ✅ Construcción de modelos de datos funcionales (relaciones, medidas DAX)  
 - ✅ Segmentación dinámica y categorización de clientes  
-- ✅ Comunicación clara para alinear los análisis con los objetivos del negocio  
+- ✅ Comunicación clara para alinear los análisis con los objetivos del negocio 
 
 ---
 
@@ -41,10 +41,10 @@
 
 ---
 
-## 💌 Actualmente estoy buscando **oportunidades remotas**.
+## 🌐 Actualmente, me encuentro buscando **oportunidades remotas**.
 
-📄 [Ve mi CV aquí](https://drive.google.com/file/d/1dLmHANMRhzhqYuJ3a9PJvw1xrRwCSUvz/view?usp=drive_link) para más detalles sobre mi experiencia y formación.
+📄 [Ve mi curriculum aquí](https://drive.google.com/file/d/1dLmHANMRhzhqYuJ3a9PJvw1xrRwCSUvz/view?usp=drive_link) para más detalles sobre mi experiencia y formación.
 
-✉ También puedes contactarme directamente a través de mi [perfil de LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363).
+📬 También puedes contactarme directamente a través de mi [perfil de LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363).
 
-## ¡Gracias por leer! *Espero tener noticias tuyas pronto.* – Irvin
+## ¡Gracias por leer! *Estoy atento ante cualquier noticia tuya.* – Irvin
