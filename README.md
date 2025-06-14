@@ -13,7 +13,7 @@
 
 📈 **Visualización del Reporte de Power BI:**  
 
-![Dashboard Preview](https://github.com/Irvyandl/Portafolio/blob/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
+![Dashboard Preview](https://github.com/Irvyandl/Portafolio/raw/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
 
 
 🔗 Puedes [descargar el archivo .pbix](https://github.com/Irvyandl/Portafolio/raw/refs/heads/main/ReporteDeVentas.pbix) para interactuar con el reporte!
