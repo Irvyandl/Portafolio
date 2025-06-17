@@ -1,50 +1,83 @@
-# 📊 Portafolio de Análisis de Datos De Irvin
+# Irvin Prado | Portafolio de Visualización de Datos
 
-¡Bienvenido/a! Soy **Irvin**, un bilingue y apasionado aspirante a Analista de Datos con experiencia práctica en **limpieza de datos, modelado y diseño de dashboards** utilizando Power BI y Excel. Me especializo en transformar datos crudos en **información visible y accionable** para facilitar la toma de decisiones y el seguimiento de estados financieros a los equipos designados.
-
----
-
-## 💼 Proyectos Personales
-
-### 🔹 Dashboard de Ventas
-- Diseñé un dashboard interactivo en **Power BI** utilizando **más de 7,000 filas** de datos de ventas crudos.
-- Incluí visualizaciones para el **seguimiento del rendimiento**, con segmentadores para mostrar datos por **año y región**.
-- Permití una rápida comprensión y visualización del estado del negocio.
-
-📈 **Visualización del Reporte de Power BI:**  
-
-![Dashboard Preview](https://github.com/Irvyandl/Portafolio/raw/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
-
-
-🔗 Puedes [descargar el archivo .pbix](https://github.com/Irvyandl/Portafolio/raw/refs/heads/main/ReporteDeVentas.pbix) para interactuar con el reporte!
+¡Hola! Soy **Irvin Prado**, un entusiasta bilingüe (ES/EN) de la visualización de datos, enfocado en transformar conjuntos de datos crudos en insights accionables para el negocio utilizando **Power BI**, **Excel** y **SQL**.
 
 ---
 
-## 👨🏻‍💻 Lo que puedo aportar a tu equipo
+## 🔍 Sobre Mí
 
-- ✅ Facilitación de la interpretación o traducción de datos entre Ingles y Español 
-- ✅ Limpieza y transformación de datos no estructurados 
-- ✅ Construcción de modelos de datos funcionales (relaciones, medidas DAX)  
-- ✅ Segmentación dinámica y categorización de clientes  
-- ✅ Comunicación clara para alinear los análisis con los objetivos del negocio 
+Soy un aspirante a Analista de Datos con orientación técnica, detallista y con sólidas habilidades comunicativas. Me he formado de manera práctica en:
 
----
-
-## 🛠️ Herramientas y Habilidades
-
-- **Manejo de Inglés** (Avanzado) 
-- **Power BI** (Avanzado)  
-- **SQL Server Management Studio** (Intermedio/Avanzado)  
-- **Excel** (Avanzado)  
-- **Diseño de dashboards y narrativa visual**  
-- **Comunicación efectiva y comprensión de necesidades de negocio**  
+- Desarrollo de dashboards (Power BI, Excel)
+- Modelado de datos (Power Pivot, DAX)
+- Transformación de datos (Power Query, SQL Server)
+- Storytelling con datos para decisiones empresariales
+- Adaptación de datos en español a reportes en inglés
 
 ---
 
-## 🌐 Actualmente, me encuentro buscando **oportunidades remotas**.
+## 📈 Proyecto Destacado: Dashboard de Rendimiento de Ventas
 
-📄 [Ve mi curriculum aquí](https://drive.google.com/file/d/1dLmHANMRhzhqYuJ3a9PJvw1xrRwCSUvz/view?usp=drive_link) para más detalles sobre mi experiencia y formación.
+### 📝 Resumen
 
-📬 También puedes contactarme directamente a través de mi [perfil de LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363).
+Este proyecto analiza más de **7,000 transacciones de ventas** y presenta insights sobre el rendimiento comercial por región y año. Incluye segmentación de clientes por nivel y lógica de distribución por almacén mediante DAX. La base de datos original estaba en español y fue traducida y adaptada al inglés para su uso con stakeholders internacionales.
 
-## ¡Gracias por leer! *Estoy atento ante cualquier noticia tuya.* – Irvin
+### ⚙️ Herramientas y Habilidades Aplicadas
+
+- Power BI  
+- Power Query  
+- DAX (medidas personalizadas)  
+- Narrativa visual de datos  
+- Segmentadores y filtros dinámicos  
+- Adaptación de datos (ES → EN)
+
+### 🧩 Características Clave
+
+- Dashboard interactivo con filtros por año y región  
+- Clasificación de clientes automatizada  
+- Mapeo de almacenes por código  
+- 5 visuales clave adaptados a decisiones estratégicas
+
+### 🧠 Valor Generado
+
+> Reduje el tiempo de generación de reportes en un **30%** y facilité la detección de tendencias regionales por parte de los equipos de negocio.
+
+![Vista previa](https://github.com/Irvyandl/Portfolio/raw/main/Screenshot%202025-06-12%20131758.png)
+
+🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
+
+---
+
+## 🧰 Resumen de Habilidades
+
+```text
+Power BI              ██████████  Avanzado
+Excel                 █████████░  Avanzado
+SQL Server            ████████░░  Proeficiente
+Power Query           █████████░  Avanzado
+DAX                   ████████░░  Proeficiente
+Diseño de Dashboards  █████████░  Avanzado
+Inglés (C1)           ██████████  Avanzado
+Español (Nativo)      ██████████  Fluido
+```
+
+---
+
+## 💼 Información Adicional
+
+- ✅ Disponible para trabajar en modalidad remota  
+- ✅ Comunicación efectiva y comprensión de lógica empresarial  
+- ✅ Bilingüe: Español nativo, Inglés nivel C1 (certificado)
+
+---
+
+## 📬 Contacto
+
+[LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363)  
+📧 irvyandl18@gmail.com  
+🌐 [Sitio del Portafolio](https://irvyandl.github.io/Portafolio/)  
+📄 [Descargar CV (PDF)](https://drive.google.com/file/d/1j_YC12VuKdkY_dQuE8nQrAhRVql_I4RH/view?usp=drive_link)
+
+---
+
+¡Gracias por visitar! Me encantaría colaborar con equipos impulsados por datos. 🚀
