@@ -42,9 +42,9 @@ Este proyecto analiza más de **7,000 transacciones de ventas** y presenta insig
 
 > Reduje el tiempo de generación de reportes en un **30%** y facilité la detección de tendencias regionales por parte de los equipos de negocio.
 
-![Vista previa](https://github.com/Irvyandl/Portfolio/raw/main/Screenshot%202025-06-12%20131758.png)
+![Vista previa](https://github.com/Irvyandl/Portafolio/blob/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
 
-🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Report-Portafolio/blob/c1ade7570ebead550cec6012dcca2558d9eef2c4/SalesReportBI.pbix?raw=true)
+🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/blob/main/ReporteDeVentas.pbix?raw=true)
 
 ---
 
@@ -76,7 +76,7 @@ Español (Nativo)      ██████████  Fluido
 [LinkedIn](http://www.linkedin.com/in/irvin-prado-6961b1363)  
 📧 irvyandl18@gmail.com  
 🌐 [Sitio del Portafolio](https://irvyandl.github.io/Portafolio/)  
-📄 [Descargar CV (PDF)](https://drive.google.com/file/d/1j_YC12VuKdkY_dQuE8nQrAhRVql_I4RH/view?usp=drive_link)
+📄 [Descargar CV (PDF)](https://drive.google.com/file/d/1VAufjoNyiJTHdSke0DkcqIB6pLLHO9dF/view?usp=drive_link)
 
 ---
 
