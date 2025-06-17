@@ -44,7 +44,7 @@ Este proyecto analiza más de **7,000 transacciones de ventas** y presenta insig
 
 ![Vista previa](https://github.com/Irvyandl/Portafolio/blob/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
 
-🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/blob/main/ReporteDeVentas.pbix?raw=true)
+🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/raw/refs/heads/main/ReporteDeVentas.pbix)
 
 ---
 
