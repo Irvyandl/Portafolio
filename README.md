@@ -42,7 +42,7 @@ Este proyecto analiza más de **7,000 transacciones de ventas** y presenta insig
 
 > Reduje el tiempo de generación de reportes en un **30%** y facilité la detección de tendencias regionales por parte de los equipos de negocio.
 
-![Vista previa](https://github.com/Irvyandl/Portafolio/blob/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
+![Vista previa](https://github.com/Irvyandl/Portafolio/raw/main/WhatsApp%20Image%202025-06-13%20at%2021.21.46_93325503.jpg)
 
 🔗 [Descargar archivo .pbix](https://github.com/Irvyandl/Portafolio/raw/refs/heads/main/ReporteDeVentas.pbix)
 
