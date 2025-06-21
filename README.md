@@ -87,7 +87,7 @@
   <div class="project">
     <h3>📝 Resumen</h3>
     <p>
-      Este proyecto analiza más de <strong>7,000 transacciones de ventas</strong> y presenta insights sobre el rendimiento comercial por región y año. Incluye segmentación de clientes por nivel y lógica de distribución por almacén mediante DAX. La base de datos original estaba en español y fue traducida y adaptada al inglés para su uso con stakeholders internacionales.
+      Este proyecto analiza más de <strong>7,000 transacciones de ventas</strong> y presenta insights sobre el rendimiento comercial por región y año. Incluye segmentación de clientes por nivel y lógica de distribución por almacén mediante DAX. La base de datos original estaba en inglés y fue traducida y adaptada al español para su uso con stakeholders internacionales.
     </p>
 
     <h3>⚙️ Herramientas y Habilidades Aplicadas</h3>
